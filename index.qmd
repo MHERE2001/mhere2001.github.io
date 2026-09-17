@@ -1,0 +1,40 @@
+
+---
+title: "Mechelle A. Hernandez"
+---
+![](images/MAHE.jpg){width=200px}
+
+I am a graduate student in Economics at UTEP, with research experience in applied microeconomics, spatial analysis, and social outcomes. Skilled in econometric analysis using Stata, Python and R, with experience supporting peer-reviewed research and literature synthesis. Currently working as Intern Grid in the Resource Strategy Department at El Paso Electric Company.
+
+## CV
+
+[**Download full CV (PDF)**](files/cv.pdf)
+
+**Education**
+
+- M.S. Economics, The University of Texas at El Paso (expected 2026)
+- B.A. Economics, Autonomous University of Ciudad Juárez (UACJ) (2023)
+
+**Experience**
+
+- Resource Strategy Analyst Intern, [El Paso Electric Company], [06/2026- Present]
+
+## Research interests
+
+My research interests center on institutional economics and microeconomic analysis, risky decision making, and the fairness and efficiency of markets, particulary economics of sex work, spatial segregation and socioeconomic status estimation.
+
+## Skills
+
+- Python (pandas, statsmodels)
+- R / Stata
+- Time series forecasting
+- Power Bi Dashboards
+- GIS tools(GeoDa, ArcGIS, ArcMap)
+
+## Contact
+
+**Email:** mahernandez93@miners.utep.edu
+
+**LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com/in/yourname) ·
+
+**GitHub:** [github.com/mhere2001](https://github.com/mhere2001) ·

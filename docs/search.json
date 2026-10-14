@@ -61,5 +61,47 @@
     "title": "Mechelle A. Hernandez",
     "section": "Contact",
     "text": "Contact\nEmail: mahernandez93@miners.utep.edu\nLinkedIn: linkedin.com/in/yourname ·\nGitHub: github.com/mhere2001 ·"
+  },
+  {
+    "objectID": "gallery.html",
+    "href": "gallery.html",
+    "title": "Gallery",
+    "section": "",
+    "text": "2nd Place - Tenth Meeting of Young Researchers of the State of Chihuahua, 2024\n\n\n\n\n\n\n\nBook Presentation: Why Are There More Divorces Than People Getting Married?, 2025\n\n\n\n\n\n\n\nOutstanding Academic Student, Best GPA of the Economics program"
+  },
+  {
+    "objectID": "gallery.html#awards-and-recognitions",
+    "href": "gallery.html#awards-and-recognitions",
+    "title": "Gallery",
+    "section": "",
+    "text": "2nd Place - Tenth Meeting of Young Researchers of the State of Chihuahua, 2024\n\n\n\n\n\n\n\nBook Presentation: Why Are There More Divorces Than People Getting Married?, 2025\n\n\n\n\n\n\n\nOutstanding Academic Student, Best GPA of the Economics program"
+  },
+  {
+    "objectID": "gallery.html#activities",
+    "href": "gallery.html#activities",
+    "title": "Gallery",
+    "section": "Activities",
+    "text": "Activities\n\n\n\n\n\n\nBusiness Case Summer Project, El Paso Electric Company, 2026\n\n\n\n\n\n\n\nSummer Intership in El Paso Electric Company, 2026"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Time series analysis · Python (statsmodels)\nHow does electricity demand evolve across the border states, and which time series model forecasts it best? I use monthly retail electricity sales from the U.S. Energy Information Administration for Texas, New Mexico, Arizona, and California (2001–2023). Augmented Dickey-Fuller tests, seasonal decomposition, and heatmaps show that every series has both a long-run trend and a strong summer seasonal cycle. I compare an AR(1) on the year-over-year growth rate, an ARIMA(1,1,0), and a SARIMA(1,1,0)(1,1,0)[12], trained on 2001–2021 and evaluated on a 24-month out-of-sample window.\n\n\n\nSARIMA forecast for 2024–2025 with 90% confidence intervals\n\n\n\n\n\nOut-of-sample RMSE by model and state\n\n\n\n\n\nMicroeconometrics · OLS and instrumental variables · Stata\nThis project estimates the effect of Protestant affiliation on individual work ethic using the Integrated Values Survey (EVS and World Values Survey, waves 3–5) for 47 European countries and about 130,000 respondents. The OLS models add country and wave fixed effects, religious attendance, and a belief index, with standard errors clustered by country. To address selection into religion, I also instrument Protestant affiliation with the log distance from each country’s capital to Wittenberg, following Becker and Woessmann (2009). The first stage is strong (F-statistic of about 1,526).\nThe OLS estimates show a positive and significant Protestant coefficient (about 0.054). It falls by roughly 17% when the belief index is added, so both affiliation and beliefs seem to matter. The 2SLS estimate is positive but statistically insignificant, so the evidence does not establish a causal effect. Because the instrument varies only across countries, the IV models cannot include country fixed effects.\n\n\n\nInstrumental Variable: Log Distance to Wittenberg, by Country\n\n\n\n\n\nProtestant Share by Country\n\n\n\n\n\nSpatial statistics and geostatistics · ArcGIS, GeoDa\nHomicides in Ciudad Juárez cluster in specific parts of the city. This project asks what the socioeconomic conditions of the places where perpetrators live, such as educational lag, low income, and marginalization, tell us about where homicides come from. Drawing on economic and ecological theories of crime, I build social and economic variables at the level of urban census areas (AGEBs) and use kriging interpolation to estimate the probability that a person commits a homicide in each area. The results classify areas as net generators or net attractors of offenders.\n\n\n\nZonal classification from kriging, 2010\n\n\n\n\n\nZonal classification from kriging, 2020"
+  },
+  {
+    "objectID": "research.html#selected-projects",
+    "href": "research.html#selected-projects",
+    "title": "Research",
+    "section": "",
+    "text": "Time series analysis · Python (statsmodels)\nHow does electricity demand evolve across the border states, and which time series model forecasts it best? I use monthly retail electricity sales from the U.S. Energy Information Administration for Texas, New Mexico, Arizona, and California (2001–2023). Augmented Dickey-Fuller tests, seasonal decomposition, and heatmaps show that every series has both a long-run trend and a strong summer seasonal cycle. I compare an AR(1) on the year-over-year growth rate, an ARIMA(1,1,0), and a SARIMA(1,1,0)(1,1,0)[12], trained on 2001–2021 and evaluated on a 24-month out-of-sample window.\n\n\n\nSARIMA forecast for 2024–2025 with 90% confidence intervals\n\n\n\n\n\nOut-of-sample RMSE by model and state\n\n\n\n\n\nMicroeconometrics · OLS and instrumental variables · Stata\nThis project estimates the effect of Protestant affiliation on individual work ethic using the Integrated Values Survey (EVS and World Values Survey, waves 3–5) for 47 European countries and about 130,000 respondents. The OLS models add country and wave fixed effects, religious attendance, and a belief index, with standard errors clustered by country. To address selection into religion, I also instrument Protestant affiliation with the log distance from each country’s capital to Wittenberg, following Becker and Woessmann (2009). The first stage is strong (F-statistic of about 1,526).\nThe OLS estimates show a positive and significant Protestant coefficient (about 0.054). It falls by roughly 17% when the belief index is added, so both affiliation and beliefs seem to matter. The 2SLS estimate is positive but statistically insignificant, so the evidence does not establish a causal effect. Because the instrument varies only across countries, the IV models cannot include country fixed effects.\n\n\n\nInstrumental Variable: Log Distance to Wittenberg, by Country\n\n\n\n\n\nProtestant Share by Country\n\n\n\n\n\nSpatial statistics and geostatistics · ArcGIS, GeoDa\nHomicides in Ciudad Juárez cluster in specific parts of the city. This project asks what the socioeconomic conditions of the places where perpetrators live, such as educational lag, low income, and marginalization, tell us about where homicides come from. Drawing on economic and ecological theories of crime, I build social and economic variables at the level of urban census areas (AGEBs) and use kriging interpolation to estimate the probability that a person commits a homicide in each area. The results classify areas as net generators or net attractors of offenders.\n\n\n\nZonal classification from kriging, 2010\n\n\n\n\n\nZonal classification from kriging, 2020"
+  },
+  {
+    "objectID": "research.html#work-in-progress",
+    "href": "research.html#work-in-progress",
+    "title": "Research",
+    "section": "Work in progress",
+    "text": "Work in progress\n\nPolicy uncertainty and renewable energy generation in the U.S.–Mexico border states\nTime series econometrics · Python\nThis ongoing project studies how economic policy uncertainty and climate policy uncertainty relate to renewable electricity generation in Texas, New Mexico, Arizona, and California, using 304 monthly observations from January 2001 to April 2026. The data come from the EIA Electric Power Monthly and from published policy uncertainty indices, and I plan to test for unit roots and structural breaks around the 2008 financial crisis, COVID-19, Winter Storm Uri, and state regulatory changes. Results will be posted here as the analysis develops.\n\n\n\nRaw Series"
   }
 ]

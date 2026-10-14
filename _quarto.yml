@@ -9,8 +9,12 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: research.qmd
+        text: Research
+      - href: gallery.qmd
+        text: Awards & Recognitions
       - href: project.qmd
-        text: Project
+        text: Project updates
 
 
 format:

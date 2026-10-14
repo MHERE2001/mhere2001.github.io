@@ -1,0 +1,24 @@
+---
+title: "Gallery"
+lightbox: true
+---
+
+## Awards and recognitions
+
+::: {layout-ncol=3}
+![2nd Place - Tenth Meeting of Young Researchers of the State of Chihuahua, 2024](images/gallery/2ndplace.jpg)
+
+![Book Presentation: Why Are There More Divorces Than People Getting Married?, 2025](images/gallery/book.jpg)
+
+![Outstanding Academic Student, Best GPA of the Economics program](images/gallery/mechelleestudiante.jpg)
+
+:::
+
+## Activities
+
+::: {layout-ncol=3}
+![Business Case Summer Project, El Paso Electric Company, 2026](images/gallery/businesscase.jpg)
+
+![Summer Intership in El Paso Electric Company, 2026](images/gallery/web.png)
+
+:::
